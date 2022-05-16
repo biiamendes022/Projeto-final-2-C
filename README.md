@@ -1,6 +1,12 @@
-# Projeto final 2º C - Estrutura de funcionamento da academia do IFBA - campus Euclides da Cunha
-Participantes: Kayck Vitor, Maykelly da Cruz, Anna Beatriz, Yasmin de Souza e Yara Santana Passos
-Líder - Kayck Vitor Dias
+# Projeto final: Estrutura de funcionamento da academia do IFBA - Campus Euclides da Cunha
+
+# Participantes: 
+
+- Anna Beatriz de Santana Mendes: (annbiamendes@gmail.com)
+- Kayck Vitor Dias: (kayckvitor16@gmail.com)
+- Maykelly da Cruz Souza: (smaykelly81@gmail.com)
+- Yara Santana Passos: (yarapassosysp@gmail.com)
+- Yasmin de Souza Pereira: (yasminnsp1@gmail.com)
 
 # Justificativa: 
 Analisando as estruturas ofertadas pelo IFBA, vimos que existe uma academia no ginásio onde está com impossibilidade de funcionar devido a falta de um profissional para instruir os alunos (personal), diante disso, esse pré-projeto visa criar um sistema para que quando houver personal, os alunos e servidores possam usá-la tranquilamente. Implementando os requisistos básicos e de segurança de uma academia, o sistema deve possuir algumas restrições e regras.
@@ -21,17 +27,17 @@ No cenário atual do IFBA – Campus Euclides da Cunha, é possível vermos muit
 - Estabelecer um limite de tempo para o treino e a quantidade de pessoas malhando simultaneamente. 
 
 # Especificação do papel de cada membro: 
-@ Anna Beatriz de Santana Mendes: (annbiamendes@gmail.com)
+@Anna Beatriz de Santana Mendes: 
 Responsável por gerenciar e verificar o código-fonte e entrevistar os clientes.
 
-@ Kayck Vitor Dias: (kayckvitor16@gmail.com)
+@Kayck Vitor Dias: 
 Responsável por desenvolver o código-fonte e fazer a manutenção (commits) no Github.
 
-@ Maykelly da Cruz Souza: (smaykelly81@gmail.com)
+@Maykelly da Cruz Souza: 
 Responsável por gerenciar e verificar o código-fonte e fazer visitas técnicas ao cliente. 
 
-@ Yara Santana Passos: (yarapassosysp@gmail.com)
+@Yara Santana Passos: 
 Responsável por gerenciar e verificar o código-fonte.
 
-@ Yasmin de Souza Pereira: (yasminnsp1@gmail.com)
+@Yasmin de Souza Pereira: 
 Responsável por gerenciar e verificar o código-fonte.

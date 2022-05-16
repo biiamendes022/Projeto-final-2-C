@@ -1,4 +1,4 @@
-# Projeto-final-2-C
+# Projeto final 2º C
 
 # Alunos: Kayck Vitor, Maykelly da Cruz, Anna Beatriz, Yasmin de Souza e Yara Santana Passos
 Líder- Kayck Vitor Dias

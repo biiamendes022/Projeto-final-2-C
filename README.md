@@ -1,7 +1,6 @@
 # Projeto final 2º C - Estrutura de funcionamento da academia do IFBA - campus Euclides da Cunha
-
-# Alunos: Kayck Vitor, Maykelly da Cruz, Anna Beatriz, Yasmin de Souza e Yara Santana Passos
-Líder- Kayck Vitor Dias
+Participantes: Kayck Vitor, Maykelly da Cruz, Anna Beatriz, Yasmin de Souza e Yara Santana Passos
+Líder - Kayck Vitor Dias
 
 # Justificativa: 
 Analisando as estruturas ofertadas pelo IFBA, vimos que existe uma academia no ginásio onde está com impossibilidade de funcionar devido a falta de um profissional para instruir os alunos (personal), diante disso, esse pré-projeto visa criar um sistema para que quando houver personal, os alunos e servidores possam usá-la tranquilamente. Implementando os requisistos básicos e de segurança de uma academia, o sistema deve possuir algumas restrições e regras.

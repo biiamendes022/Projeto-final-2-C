@@ -13,4 +13,14 @@ Analisando as estruturas ofertadas pelo IFBA, vimos que existe uma academia no g
 
 # Tópicos a serem discutidos 
 
-# Papel de cada membro: 
+# Especificação do papel de cada membro: 
+@ Anna Beatriz de Santana Mendes: 
+Responsável por gerenciar e verificar o código-fonte e entrevistar os clientes.
+@ Kayck Vitor Dias: 
+Responsável por desenvolver o código-fonte e fazer a manutenção (commits) no Github.
+@Maykelly da Cruz Souza:
+Responsável por gerenciar e verificar o código-fonte e fazer visitas técnicas ao cliente. 
+@Yara Santana Passos: 
+Responsável por gerenciar e verificar o código-fonte.
+@Yasmin de Souza Pereira:
+Responsável por gerenciar e verificar o código-fonte.

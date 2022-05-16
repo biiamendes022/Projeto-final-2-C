@@ -8,3 +8,9 @@ Analisando as estruturas ofertadas pelo IFBA, vimos que existe uma academia no g
   - Não funcionar sem a presença do personal;
   - O aluno/servidores só poderam fazer o treino 1 vez no dia;
   - Estabelecer a quantidade de treinos e seus respectivos pesos de acordo com a idade e o peso do aluno.
+
+# Objetivos:
+
+# Tópicos a serem discutidos 
+
+# Papel de cada membro: 

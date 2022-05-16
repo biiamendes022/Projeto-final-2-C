@@ -11,8 +11,10 @@ Analisando as estruturas ofertadas pelo IFBA, vimos que existe uma academia no g
   - Estabelecer a quantidade de treinos e seus respectivos pesos de acordo com a idade e o peso do aluno.
 
 # Objetivos:
+No cenário atual do IFBA – Campus Euclides da Cunha, é possível vermos muitas coisas em desuso e em desorganização, como é o caso da pequena academia que está instalada dentro ginásio do campus. A academia é um recurso muito útil se for bem gerenciada, já que algumas pessoas podem obter o seu primeiro contato com a musculação por meio dela, podendo usá-la também como o meio de se exercitar diariamente, já que além de tudo, é um recurso gratuito. Para isso, seriam necessárias algumas regras, que serão visadas nesse projeto.
 
-# Tópicos a serem discutidos 
+# Tópicos a serem discutidos:
+
 
 # Especificação do papel de cada membro: 
 @ Anna Beatriz de Santana Mendes: (annbiamendes@gmail.com)

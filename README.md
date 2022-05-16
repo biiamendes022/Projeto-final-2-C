@@ -1,6 +1,7 @@
 # Projeto-final-2-C
 
 # Alunos: Kayck Vitor, Maykelly da Cruz, Anna Beatriz, Yasmin de Souza e Yara Santana Passos
+Líder- Kayck Vitor Dias
 
 # Justificativa: 
 Analisando as estruturas ofertadas pelo IFBA, vimos que existe uma academia no ginásio onde está com impossibilidade de funcionar devido a falta de um profissional para instruir os alunos (personal), diante disso, esse pré-projeto visa criar um sistema para que quando houver personal, os alunos e servidores possam usá-la tranquilamente. Implementando os requisistos básicos e de segurança de uma academia, o sistema deve possuir algumas restrições e regras.
@@ -14,17 +15,17 @@ Analisando as estruturas ofertadas pelo IFBA, vimos que existe uma academia no g
 # Tópicos a serem discutidos 
 
 # Especificação do papel de cada membro: 
-@ Anna Beatriz de Santana Mendes: 
+@ Anna Beatriz de Santana Mendes: (g-mail: annbiamendes@gmail.com)
 Responsável por gerenciar e verificar o código-fonte e entrevistar os clientes.
 
-@ Kayck Vitor Dias: 
+@ Kayck Vitor Dias: (e-mail: kayckvitor16@gmail.com)
 Responsável por desenvolver o código-fonte e fazer a manutenção (commits) no Github.
 
-@Maykelly da Cruz Souza:
+@ Maykelly da Cruz Souza: (smaykelly81@gmail.com)
 Responsável por gerenciar e verificar o código-fonte e fazer visitas técnicas ao cliente. 
 
-@Yara Santana Passos: 
+@ Yara Santana Passos: 
 Responsável por gerenciar e verificar o código-fonte.
 
-@Yasmin de Souza Pereira:
+@ Yasmin de Souza Pereira: (yasminnsp1@gmail.com)
 Responsável por gerenciar e verificar o código-fonte.

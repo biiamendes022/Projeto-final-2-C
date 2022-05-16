@@ -1,4 +1,4 @@
-# Projeto final 2º C
+# Projeto final 2º C - Estrutura de funcionamento da academia do IFBA - campus Euclides da Cunha
 
 # Alunos: Kayck Vitor, Maykelly da Cruz, Anna Beatriz, Yasmin de Souza e Yara Santana Passos
 Líder- Kayck Vitor Dias

@@ -15,16 +15,16 @@ Analisando as estruturas ofertadas pelo IFBA, vimos que existe uma academia no g
 # Tópicos a serem discutidos 
 
 # Especificação do papel de cada membro: 
-@ Anna Beatriz de Santana Mendes: (g-mail: annbiamendes@gmail.com)
+@ Anna Beatriz de Santana Mendes: (annbiamendes@gmail.com)
 Responsável por gerenciar e verificar o código-fonte e entrevistar os clientes.
 
-@ Kayck Vitor Dias: (e-mail: kayckvitor16@gmail.com)
+@ Kayck Vitor Dias: (kayckvitor16@gmail.com)
 Responsável por desenvolver o código-fonte e fazer a manutenção (commits) no Github.
 
 @ Maykelly da Cruz Souza: (smaykelly81@gmail.com)
 Responsável por gerenciar e verificar o código-fonte e fazer visitas técnicas ao cliente. 
 
-@ Yara Santana Passos: 
+@ Yara Santana Passos: (yarapassosysp@gmail.com)
 Responsável por gerenciar e verificar o código-fonte.
 
 @ Yasmin de Souza Pereira: (yasminnsp1@gmail.com)
